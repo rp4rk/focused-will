@@ -1,0 +1,16 @@
+- Getting started
+
+  - [Quick start]()
+  - [Core Mechanics](discipline.md)
+  - [Secondary Statistics](stats.md)
+  - [Talents](talents.md)
+
+- Shadowlands
+
+  - [Covenants](covenants.md)
+  - [Soulbinds & Conduits](soulbinds.md)
+  - [Legendaries](legendaries.md)
+  - [Trinkets](trinkets.md)
+
+- Resources
+  - [Discord](https://discord.gg/focusedwill)

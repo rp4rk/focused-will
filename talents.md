@@ -1,0 +1,109 @@
+## T15
+
+### Castigation
+
+Castigation is not a consideration and would require offensive penance to see significant buffs in order to place it near the alternatives in this tier.
+
+### Twist of Fate
+
+Twist of Fate can be useful in pushing M+ content, however in raids it will rarely see play unless there are specific mechanics that allow you to abuse the uptime of the buff.
+
+### Schism
+
+Schism is the obvious choice in the majority of situations when ramping is your primary consideration, as it allows you to improve the strength of your ramp windows, Schism is also very mana efficient and hits hard before considering the damage buff.
+
+## T25
+
+### Body and Soul
+
+Do not take Body and Soul, you _will_ kill someone by speeding them up in combat when they did not expect it.
+
+### Masochism
+
+Significantly buffs the strength of Shadow Mend on the player. This is a consideration for when you need extra EHP to survive, but you should consider the opportunity cost as Angelic Feather is a high cost to pay. Look at customising conduits before selecting this talent.
+
+### Angelic Feather
+
+Strong default pick, Priest has no baseline movement abilities so in almost all situations this talent is very strong for affording better positioning options to the priest during most if not all raid encounters.
+
+## T30
+
+### Shield Discipline
+
+Shield Discipline is not a consideration, it provides slightly more mana if you can get every shield you put into play depleted, but allows for no flexibility with regards to output. It's also boring and prone to getting worse as your character gets stronger, which is not the hallmark of a good talent pick.
+
+### Mindbender
+
+> Out of date
+
+Mindbender will do around 92% of a Shadowfiend's damage in a slightly longer timeframe, depending on haste it represents around 6.5% more mana every 3 minutes than Shadowfiend due to the newly added base mana return. Mindbender also enjoys synergy with Spirit Shell, lending further strength to that combination.
+
+### Power Word: Solace
+
+Power Word: Solace represents a 1.4% mana gain per cast as it typically replaces a Smite, meaning at perfect use you're looking at 5.6% net mana per minute at perfect use. The caveat is that using Power Word: Solace perfectly is not optimal, with most logs seeing 60-80% use. Solace also has notable anti-synergy with Shadow Covenant in the later tiers, which may inform your decision on this tier.
+
+## T35
+
+### Psychic Voice
+
+Psychic Voice has notable synergy with the Mental Recovery conduit, for certain M+ affixes such as Spiteful this can be powerful.
+
+### Dominant Mind
+
+Dominant Mind is a dead talent, there is no known situation in M+ that allows this talent to be a significant choice. (Nor has there been for several years).
+
+### Shining Force
+
+Shining Force is the default pick here, a knockback is a strong tool for Discipline and Shining Force has one of the largest knockback ranges in the game.
+
+## T40
+
+### Sins of the Many
+
+Sins of the Many allows the Priest to opt into stronger individual Atonements when the total count of Atonement is lower. This means that Atonement becomes marginally stronger when you aren't ramped. This is a strong choice for both mana efficiency and output in M+, and is the best choice to conserve mana in raiding content.
+
+Note that Sins of the Many has a floor value of 3%, meaning it cannot go lower than that value.
+
+### Contrition
+
+Contrition allows the priest to remove a portion of the opportunity cost involved with casting a defensive Penance. Unfortunately, Penance is in a poor situation right now with the baseline version being worth less to cast than a Shadowmend on targets that are taking damage. Consequently, the number of situations where the Priest is interested in reducing that opportunity cost is almost zero.
+
+### Shadow Covenant
+
+Shadow Covenant is an extremely high risk but high reward button, allowing the priest to benefit from 25% extra Shadow output but at the cost of 5% mana and not being able to use Holy spells. There is significant synergy with Covenant selection here, Priests that choose the Venthyr Covenant will be much more interested in this spell as Mind Games is the only notable source of Shadow Damage available to Discipline other than Schism.
+
+## T45
+
+### Purge the Wicked
+
+In any situation you can benefit from the cleave effect of Purge the Wicked, it is almost certainly the best choice. Pick this as a default, there are only a few situations where the alternatives become competitive and they are all in raid content.
+
+On a single target, Purge the Wicked will tick for roughly 50% more than a Shadow Word: Pain. Consider choosing Halo and Divine Star as a micro-optimisation, as the associated costs and complexity of use rarely outperform the strength of Purge the Wicked.
+
+### Divine Star
+
+Take Divine Star if you can hit 6 targets reliably and there is only a single opponent, when Divine Star can hit 6 targets reliably it becomes roughly 70-90% as strong as a full Halo but with a third of the cooldown. The caveat with Divine Star is that it has a huge associated cost with casting, and it does not synergise especially well with your Atonement count due to the small 40% spellpower hit only counting on the way forward and not the way back.
+
+### Halo
+
+The conditions for playing Halo and Divine star are almost the same, but Halo interacts much better with Atonement - meaning that if you can reliably ramp every 45 seconds on a single target it will probably pull ahead.
+
+It probably goes without saying that you can't use this in M+ without killing your group.
+
+## T50
+
+### Lenience
+
+Take this in M+ for most situations, it is uninteresting but 3% damage mitigation is a strong effect to have when consistently taking damage and pushing keys. When you have Lenience it should be a priority to keep Atonement on your tanks, as they will usually be taking the majority of the damage in any given content.
+
+### Spirit Shell
+
+Choosing Spirit Shell will cause it to replace Rapture, meaning that in most situations in raiding content it is unlikely to be an appealing option. The exception here is when ability timers are in the 1 minute to 1 minute 30 seconds window, where putting all of your strength into a minute cooldown is a good idea. In other situations you can either juggle Rapture and Evangelism, or stack both to significantly improve your healing.
+
+#### M+ and Spirit Shell
+
+Right now, Spirit Shell is incredibly unlikely to be a relevant choice in M+ due to Atonement being significantly weaker in that context. For reference, at the time of writing Rapture can output around 3500% spellpower in 5 globals, something that Spirit Shell can only approach whilst also expending a significant number of your Atonement burst cooldowns such as Schism and Mindgames.
+
+### Evangelism
+
+The default pick for raiding in the majority of situations, pressing this button after executing a ramp will allow you to invest more damage into those Atonements and essentially execute a raid cooldown worth of healing.
