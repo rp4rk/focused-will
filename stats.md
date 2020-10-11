@@ -125,6 +125,12 @@ In Shadowlands, secondary statistic ratings will start having diminishing return
 
 > Note: For mastery, replace the floor and ceiling (%) with (points), see [How Mastery Works](#how-mastery-works) for more detail.
 
+#### Graph of Secondaries Lost
+
+This graph is a good way to visualise the amount of secondaries you "lose" by pushing for specific levels of a stat beyond the point of diminishing returns. For example, reaching the 36% haste breakpoint for Rapture mentioned earlier would incur a penalty of roughly 27 points, or around 0.75% of another secondary.
+
+<iframe width="726" height="381" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0PawGIsh4zn77lT5JhbiXZxIlbqDgabgoa_y1Fh222pL4N4YU2EWomxMn1f_f3gt04_1IG6HQgEKh/pubchart?oid=1809109490" ></iframe>
+
 ### Heroism?
 
 [Heroism](https://www.wowhead.com/spell=32182/heroism) and other effects that increase how much of a secondary you have, such as the Kyrian Soulbind passive [Pointed Courage](https://shadowlands.wowhead.com/spell=329778/pointed-courage) will ignore these diminshing returns. The difference here is that these effects increase the amount of the **secondary statistic** you have as opposed to granting you a certain amount of **rating**.

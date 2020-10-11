@@ -90,6 +90,29 @@ The conditions for playing Halo and Divine star are almost the same, but Halo in
 
 It probably goes without saying that you can't use this in M+ without killing your group.
 
+#### Halo Diminishing Returns
+
+Similarly to Divine Star, Halo also has a "cluster DR", meaning that at cast time it computes the appropriate values for each player _if it hits them_.
+
+Here is the information about how Halo clusters,
+
+- It has a 30 yard radius for healing players
+- It has a 30 yard cluster radius
+- It has a 40 yard total radius for player consideration
+
+This can be seen illustrated below,
+
+![Diagram Illustrating Halo Cluster Diminishing Returns](img/halo-wasted.svg)
+
+Player A and the Priest are the only players being hit by Halo, however they both have different considerations for meteoring,
+
+- Player A is the only person within the cluster range (30y) of the Priest, meaning that the priest has an N value of 2 for meteoring purposes
+- Player A has 5 people total, including themselves, in range of the 30y cluster radius. However, we subtract 1 for player D who is outside of the considered radius (40y)
+- Player B and C are considered, but not hit by the heal, if they were to move in to the effect after the cast they would each be healed with a consideration of N=2.
+- Player D is not considered, meaning that if they were to move in to the effect they would be healed with N=1 as a consideration for meteoring.
+
+For simplicity sake, there are only 5 players in this diagram. Cluster meteoring is gameable, if 19 players were to stand at D and teleport into the 30 yard range of Halo after the cast, it is assumed they would all be healed for the full value of Halo, meaning you more than triple the total healing of the spell. Conversely, if there were 15 players stacked on C, player A would receive very little healing as their N value for meteoring shoots up to 18!
+
 ## T50
 
 ### Lenience
