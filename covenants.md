@@ -34,7 +34,7 @@ Door of Shadows is a teleport that has a cast time, which reduces how effective 
 
 > [Fleshcraft](https://shadowlands.wowhead.com/spell=324631/fleshcraft)
 
-Fleshcraft is a variable strength EHP boost with various potential benefits based on (conduit choice)[https://shadowlands.wowhead.com/spell=323074/volatile-solvent] and the presence of adds in a fight.
+Fleshcraft is a variable strength EHP boost with various potential benefits based on [conduit choice](https://shadowlands.wowhead.com/spell=323074/volatile-solvent) and the presence of adds in a fight.
 
 ## Covenant Signature Abilities
 
@@ -46,7 +46,9 @@ The order suggested here is roughly how you should be considering them for raidi
 
 > [Mindgames](https://shadowlands.wowhead.com/spell=323673/mindgames)
 
-Mindgames provides a large CD that can be used to augment your Atonement healing after ramps. As one of the prevalent Discipline builds will involve using Clarity of Mind legendary to enable a full ramp every 45 seconds on average, the cooldown of Mindgames works excellently for this.
+Mindgames provides a large cooldown that can be used to augment your Atonement healing after ramps. As one of the prevalent Discipline builds will involve using the [Clarity of Mind](https://shadowlands.wowhead.com/spell=336067/clarity-of-mind) legendary to enable a full ramp every 45 seconds, the cooldown of Mindgames works excellently for this.
+
+The absorption component of Mindgames has potential to be excellent, it can provide an extremely strong bonus to the damage of the spell by converting the target's healing into damage. This damage **does** follow through to Atonement, meaning that Mindgames on certain encounters may be roughly twice as strong. Additionally, the damage to healing component of the effect also prevents damage from being done in the first place, meaning the value there is double what is listed in the tooltip.
 
 ### [Kyrian] Boon of the Ascended
 
@@ -58,7 +60,7 @@ Mindgames provides a large CD that can be used to augment your Atonement healing
 >
 > [Ascended Eruption](https://shadowlands.wowhead.com/spell=325326/ascended-eruption)
 
-Boon of the Ascended is a large CD that enabled a huge amount of damage for 10 seconds, some of which is AoE. This represents a huge increase to Discipline's maximum healing and as such is incredibly valuable for M+ and dungeons.
+Boon of the Ascended is a large CD that enables a huge amount of damage for 10 seconds, some of which is AoE. This represents a huge increase to Discipline's maximum healing and as such is incredibly valuable for M+ and dungeons.
 
 ### [Necrolord] Unholy Nova
 

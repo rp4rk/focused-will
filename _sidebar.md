@@ -14,3 +14,4 @@
 
 - Resources
   - [Discord](https://discord.gg/focusedwill)
+  - [Coefficients (SimC)](https://github.com/simulationcraft/simc/blob/shadowlands/engine/dbc/generated/sc_scale_data.inc)
