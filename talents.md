@@ -34,19 +34,19 @@ Shield Discipline is not a consideration, it provides slightly more mana if you 
 
 ### Mindbender
 
-> Out of date
+Mindbender will do around 60% of a Shadowfiend's damage in a slightly shorter timeframe, depending on haste it represents around 1.5%-3.5% more mana every 3 minutes than Shadowfiend due to the newly added [base mana return](https://shadowlands.wowhead.com/spell=343726/shadowfiend).
 
-Mindbender will do around 92% of a Shadowfiend's damage in a slightly longer timeframe, depending on haste it represents around 6.5% more mana every 3 minutes than Shadowfiend due to the newly added base mana return. Mindbender also enjoys synergy with Spirit Shell, lending further strength to that combination.
+Mindbender enjoys synergy with Spirit Shell, as they both have one minute cooldowns, this removes concern with not using Mindbender efficiently as you can almost certainly make perfect use of the ability with Spirit Shell.
 
 ### Power Word: Solace
 
-Power Word: Solace represents a 1.4% mana gain per cast as it typically replaces a Smite, meaning at perfect use you're looking at 5.6% net mana per minute at perfect use. The caveat is that using Power Word: Solace perfectly is not optimal, with most logs seeing 60-80% use. Solace also has notable anti-synergy with Shadow Covenant in the later tiers, which may inform your decision on this tier.
+Power Word: Solace represents a 1.4% mana gain per cast as it typically replaces a Smite, meaning at perfect use you're looking at 5.6% net mana per minute. The caveat is that using Power Word: Solace perfectly is not optimal, with most logs seeing 60-80% use. Solace also has notable anti-synergy with Shadow Covenant in the later tiers, which may inform your decision on this tier.
 
 ## T35
 
 ### Psychic Voice
 
-Psychic Voice has notable synergy with the Mental Recovery conduit, for certain M+ affixes such as Spiteful this can be powerful.
+Psychic Voice has notable synergy with the [Mental Recovery](https://shadowlands.wowhead.com/spell=337954/mental-recovery) conduit, for certain M+ affixes such as [Spiteful](https://shadowlands.wowhead.com/affix=123/spiteful) this can be powerful.
 
 ### Dominant Mind
 
@@ -84,6 +84,30 @@ On a single target, Purge the Wicked will tick for roughly 50% more than a Shado
 
 Take Divine Star if you can hit 6 targets reliably and there is only a single opponent, when Divine Star can hit 6 targets reliably it becomes roughly 70-90% as strong as a full Halo but with a third of the cooldown. The caveat with Divine Star is that it has a huge associated cost with casting, and it does not synergise especially well with your Atonement count due to the small 40% spellpower hit only counting on the way forward and not the way back.
 
+#### Divine Star Diminishing Returns
+
+Divine Star has a different diminishing return mechanism than most other spells in the game, for the sake of simplicity I'm going to call it "cluster DR". Instead of applying diminishing returns instantly, as most other spells work, Divine Star will snapshot diminishing returns at cast time and only apply the values if Divine Star hits the target.
+
+In order for this to work, there are three key variables that are used to determine the snapshot values, they are,
+
+- A 24 yard range for healing players
+- An 18 yard "cluster" radius
+- A 40 yard total radius for player consideration
+
+This can be seen illustrated below,
+
+![Divine Star Diminishing Return Diagram](img/divine-star.svg)
+
+Consider the yellow arrow in the diagram to be the travel path of Divine Star, it will hit 4 players in it's path. Those players are the Priest, Player A, Player B, and Player C.
+
+Each player has a different `N` value that is considered for the meteoring calculation, the determining factors for each player are as follows,
+
+- The Priest has an `N` value of 2, as Player A is within the 18 yard cluster radius.
+- Player A has an `N` value of 3, as both the Priest and Player B are within the 18 yard cluster radius of them.
+- Player B has an `N` value of 4, as Players A, C, and D are within the cluster radius of them.
+  - Note that despite Player D not being in the path of Divine Star, they are still considered for the meteor value in Player B's case.
+- Player C has an `N` value 2, Player E and Player B are within range, however Player E is outside of Divine Star's 40 yard consideration radius.
+
 ### Halo
 
 The conditions for playing Halo and Divine star are almost the same, but Halo interacts much better with Atonement - meaning that if you can reliably ramp every 45 seconds on a single target it will probably pull ahead.
@@ -92,7 +116,7 @@ It probably goes without saying that you can't use this in M+ without killing yo
 
 #### Halo Diminishing Returns
 
-Similarly to Divine Star, Halo also has a "cluster DR", meaning that at cast time it computes the appropriate values for each player _if it hits them_.
+Similarly to Divine Star, Halo also has a cluster DR, meaning that at cast time it computes the appropriate values for each player _if it hits them_.
 
 Here is the information about how Halo clusters,
 
@@ -117,16 +141,18 @@ For simplicity sake, there are only 5 players in this diagram. Cluster meteoring
 
 ### Lenience
 
-Take this in M+ for most situations, it is uninteresting but 3% damage mitigation is a strong effect to have when consistently taking damage and pushing keys. When you have Lenience it should be a priority to keep Atonement on your tanks, as they will usually be taking the majority of the damage in any given content.
+Take this in M+ for most situations, it is uninteresting but 3% damage mitigation is a strong effect to have when consistently taking damage and pushing keys. When you have Lenience it should be a priority to keep Atonement on your tanks, as they will usually be taking the majority of the damage.
 
 ### Spirit Shell
 
-Choosing Spirit Shell will cause it to replace Rapture, meaning that in most situations in raiding content it is unlikely to be an appealing option. The exception here is when ability timers are in the 1 minute to 1 minute 30 seconds window, where putting all of your strength into a minute cooldown is a good idea. In other situations you can either juggle Rapture and Evangelism, or stack both to significantly improve your healing.
+Choosing Spirit Shell will cause it to replace Rapture, meaning that in most situations it is unlikely to be an appealing option. The exception here is when ability timers are in the 1 minute to 1 minute 30 seconds window, where putting all of your strength into a minute cooldown is a good idea. In other situations you can either juggle Rapture and Evangelism, or stack both to significantly improve your healing.
 
 #### M+ and Spirit Shell
+
+> Never take Spirit Shell in M+ unless you know what you're doing.
 
 Right now, Spirit Shell is incredibly unlikely to be a relevant choice in M+ due to Atonement being significantly weaker in that context. For reference, at the time of writing Rapture can output around 3500% spellpower in 5 globals, something that Spirit Shell can only approach whilst also expending a significant number of your Atonement burst cooldowns such as Schism and Mindgames.
 
 ### Evangelism
 
-The default pick for raiding in the majority of situations, pressing this button after executing a ramp will allow you to invest more damage into those Atonements and essentially execute a raid cooldown worth of healing.
+The default pick for raiding in the majority of situations, pressing this button after executing a ramp will allow you to invest more damage into those Atonements and do a large amount of healing.
