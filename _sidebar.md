@@ -13,5 +13,6 @@
   - [Trinkets](trinkets.md)
 
 - Resources
-  - [Discord](https://discord.gg/focusedwill)
+  - [Common Misconceptions](common-misconceptions.md)
   - [Coefficients (SimC)](https://github.com/simulationcraft/simc/blob/shadowlands/engine/dbc/generated/sc_scale_data.inc)
+  - [Discord](https://discord.gg/focusedwill)
