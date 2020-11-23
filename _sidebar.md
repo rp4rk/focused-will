@@ -4,6 +4,7 @@
   - [Core Mechanics](discipline.md)
   - [Secondary Statistics](stats.md)
   - [Talents](talents.md)
+  - [Spirit Shell](spirit-shell.md)
 
 - Shadowlands
 

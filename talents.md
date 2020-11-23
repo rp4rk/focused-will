@@ -145,13 +145,12 @@ Take this in M+ for most situations, it is uninteresting but 3% damage mitigatio
 
 ### Spirit Shell
 
-Choosing Spirit Shell will cause it to replace Rapture, meaning that in most situations it is unlikely to be an appealing option. The exception here is when ability timers are in the 1 minute to 1 minute 30 seconds window, where putting all of your strength into a minute cooldown is a good idea. In other situations you can either juggle Rapture and Evangelism, or stack both to significantly improve your healing.
+A set of extremely _low quality_ decisions on behalf of the developers has continued over the last couple of months or so of the beta, in which the [Spirit Shell](https://shadowlands.wowhead.com/spell=109964/spirit-shell) ability has been added back. Due to this, and a combination of nerfs intended to hit Spirit Shell but ultimately missing the mark, there is very little reason to believe anything other than Spirit Shell will be competitive in Castle Nathria.
 
-#### M+ and Spirit Shell
+**This has finalised the choice of Covenant for most raiders on the Venthyr, as [Mindgames](#venthyr-mindgames) has exceptional synergy with Spirit Shell.**
 
-> Never take Spirit Shell in M+ unless you know what you're doing.
+For more information, see our page on [Spirit Shell](spirit-shell.md).
 
-Right now, Spirit Shell is incredibly unlikely to be a relevant choice in M+ due to Atonement being significantly weaker in that context. For reference, at the time of writing Rapture can output around 3500% spellpower in 5 globals, something that Spirit Shell can only approach whilst also expending a significant number of your Atonement burst cooldowns such as Schism and Mindgames.
 
 ### Evangelism
 
