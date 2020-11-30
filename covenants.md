@@ -5,7 +5,7 @@
 Looking for Soulbind information? [Click here.](soulbinds.md)
 
 
-### Pre-launch Update
+### Launch Update
 A set of extremely _low quality_ decisions on behalf of the developers has continued over the last couple of months or so of the beta, in which the [Spirit Shell](https://shadowlands.wowhead.com/spell=109964/spirit-shell) ability has been added back. Due to this, and a combination of nerfs intended to hit Spirit Shell but ultimately missing the mark, there is very little reason to believe anything other than Spirit Shell will be competitive in Castle Nathria.
 
 **This has finalised the choice of Covenant for most raiders on the Venthyr, as [Mindgames](#venthyr-mindgames) has exceptional synergy with Spirit Shell.**

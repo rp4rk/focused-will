@@ -77,13 +77,13 @@ x = 5/3 // (1.66666666667)
 67% haste is quite a lot, and likely not achievable without Bloodlust or Heroism. So we can say that 'perfect' ramping is almost impossible with Rapture, however if we factor in the existence of a conduit such as [Exaltation](https://shadowlands.wowhead.com/spell=337790/exaltation), we can factor in the increase to duration,
 
 ```
-10 = 1 + 10 / (1.5 / x)
-15/x = 11
-x = 15/11
-x = 1.364
+10 = 1 + 9 / (1.5 / x)
+15/x = 10
+x = 15/10
+x = 1.5
 ```
 
-From adding an additional two seconds, we've almost halved the haste requirement, allowing us to say a 'perfect' ramp is potentially achievable with the right trinket.
+From adding an additional second, we've cut 16.67% of the haste requirement in order to perform a perfect ramp, still unachievable but potentially within reach of certain haste effects that aren't Bloodlust.
 
 #### Haste Conclusion
 
@@ -101,11 +101,11 @@ As Mastery is specific to each Specialization in the game, there has to be a spe
 - [Harmony](https://shadowlands.wowhead.com/spell=77495/mastery-harmony)
 - [Grace](https://shadowlands.wowhead.com/spell=271534/mastery-grace)
 
-The Restoration Druid Mastery, Harmony is tuned to 4% yet the Discipline Priest Mastery is tuned to 11.2%. This is because the Restoration Druid Mastery is a much more powerful effect, meaning that less of a percentage bonus results in roughly the same benefit as Grace does at 11.2%.
+The Restoration Druid Mastery, Harmony is tuned to 4% yet the Discipline Priest Mastery is tuned to 10.8%. This is because the Restoration Druid Mastery is a much more powerful effect, meaning that less of a percentage bonus results in roughly the same benefit as Grace does at 10.8%.
 
-Each Specialization in the game has what are called Mastery 'points', points are an abstraction derived from rating, and each specialisation in the game has 8 points baseline. The implication here is that a single point value is the `base value / 8`, for example with Grace it would be `11.2 / 8 = 1.4`. This leaves us with the following;
+Each Specialization in the game has what are called Mastery 'points', points are an abstraction derived from rating, and each specialisation in the game has 8 points baseline. The implication here is that a single point value is the `base value / 8`, for example with Grace it would be `11.2 / 8 = 1.35`. This leaves us with the following;
 
-`35 Mastery rating = 1 Mastery point = 1.4% Grace bonus`
+`35 Mastery rating = 1 Mastery point = 1.35% Grace bonus`
 
 ## Diminishing Returns
 
