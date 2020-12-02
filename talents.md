@@ -154,4 +154,4 @@ For more information, see our page on [Spirit Shell](spirit-shell.md).
 
 ### Evangelism
 
-The default pick for raiding in the majority of situations, pressing this button after executing a ramp will allow you to invest more damage into those Atonements and do a large amount of healing.
+Pressing this button after executing a ramp will allow you to invest more damage into those Atonements and do a large amount of healing. A good choice if timers are on 45 second intervals, allowing you to burst more frequently and potentially surpass the value of optimising into Spirit Shell.
