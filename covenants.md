@@ -1,16 +1,9 @@
 ## Covenant Preface
 
-> Be aware that regardless of Blizzard marketing, your capacity to perform in certain parts of the game will be significantly different depending on your Covenant. This means it's important that you choose the correct Covenant for the game context you are primarily focusing on.
+> Be aware that regardless of Blizzard signalling otherwise, your capacity to perform appropriately in certain parts of the game will be significantly different depending on your Covenant. This means it's important that you choose the correct Covenant for the game context you are primarily focusing on.
 
 Looking for Soulbind information? [Click here.](soulbinds.md)
 
-
-### Launch Update
-A set of extremely _low quality_ decisions on behalf of the developers has continued over the last couple of months or so of the beta, in which the [Spirit Shell](https://shadowlands.wowhead.com/spell=109964/spirit-shell) ability has been added back. Due to this, and a combination of nerfs intended to hit Spirit Shell but ultimately missing the mark, there is very little reason to believe anything other than Spirit Shell will be competitive in Castle Nathria.
-
-**This has finalised the choice of Covenant for most raiders on the Venthyr, as [Mindgames](#venthyr-mindgames) has exceptional synergy with Spirit Shell.**
-
-For more information, see our page on [Spirit Shell](spirit-shell.md).
 
 ## Covenant Signature Abilities
 
@@ -20,21 +13,21 @@ None of the Covenant signature abilities currently offer a particular synergy wi
 
 > [Soulshape](https://shadowlands.wowhead.com/spell=310143/soulshape)
 
-Soulshape provides an instant blink and sustained movement that can reset knockbacks, this could be particularly valuable on a fight that has mechanics such as Kil'jaeden or N'Zoth, where a blink can be the difference between life and death. Note that the existence of the Goblin racial, [Rocket Jump](https://www.wowhead.com/spell=69070/rocket-jump) significantly devalues the movement resetting value of this signature ability.
+Soulshape provides an instant blink and sustained movement that can reset knockbacks, this can be particularly valuable on a fight such as Mythic Sire Denathrius, or even potentially the upcoming Ner'zhul encounter. Note that the the Goblin racial, [Rocket Jump](https://www.wowhead.com/spell=69070/rocket-jump) significantly devalues movement resets as you can typically get away with one every minute and a half or so.
 
 ### [Kyrian] Summon Steward
 
 > [Summon Steward](https://shadowlands.wowhead.com/spell=324739)
 
-Summon Steward will give you [Phial of Serenity](https://shadowlands.wowhead.com/item=177278/phial-of-serenity), which does not share a cooldown with Health Potions or Healthstones, meaning that you can use it as another personal every few minutes at worst.
+Summon Steward will give you [Phial of Serenity](https://shadowlands.wowhead.com/item=177278/phial-of-serenity), which does not share a cooldown with Health Potions or Healthstones, meaning that you can use it as another personal each pull at worst. With the changes to certain mitigation mechanics there could be extremely high value in this as an extra bit of survivability - as Discipline doesn't have the best personals in the game.
 
-In the best case scenario, you can combine it with some of the more interesting Soulbind effects such as [Ascendant Phial](https://shadowlands.wowhead.com/spell=329776/ascendant-phial) in order to skip mechanics that would otherwise incapacitate or take you out of a fight for a while. Note that this will probably not be exceptional in Castle Nathria as Blizzard have taken special care to flag important mechanics to ignore this, [see here](https://www.wowhead.com/news=318905.3/dwarf-stoneform-and-kyrian-phial-no-longer-removes-some-castle-nathria-bleeds).
+In the best case scenario, you can combine it with some of the more interesting Soulbind effects such as [Ascendant Phial](https://shadowlands.wowhead.com/spell=329776/ascendant-phial) in order to skip mechanics that would otherwise incapacitate or take you out of a fight for a while. Note that this will probably not be exceptional in Sanctum of Domination as Blizzard have historically taken special care to flag important mechanics to ignore this, [see here](https://www.wowhead.com/news=318905.3/dwarf-stoneform-and-kyrian-phial-no-longer-removes-some-castle-nathria-bleeds).
 
 ### [Venthyr] Door of Shadows
 
 > [Door of Shadows](https://shadowlands.wowhead.com/spell=300728/door-of-shadows)
 
-Door of Shadows is a teleport that has a cast time, which reduces how effective it can be in a typical fight. Consider that even with base movement speed, you can move a large portion of the teleport max distance just by pressing `W` instead of casting. This relegates the spell to being used as a planned cheese for specific movement requirements, such as skipping through a beam on N'Zoth or over pustules on Carapace as two examples from the Ny'alotha.
+Door of Shadows is a teleport that has a cast time, which reduces how effective it can be in a typical fight. Consider that even with base movement speed, you can move a large portion of the teleport max distance just by pressing `W` instead of casting. This relegates the spell to being used as a planned cast for specific movement requirements, a good example would be on Kel'Thuzad in Sanctum of Domination by timing the teleport to a safe zone in a Blizzard cast.
 
 [Watch the Shoes](https://shadowlands.wowhead.com/spell=336140/watch-the-shoes), a soulbind passive provided by Theotar, could be an interesting way to allow Discipline to work around certain boss mechanics.
 
@@ -42,21 +35,21 @@ Door of Shadows is a teleport that has a cast time, which reduces how effective 
 
 > [Fleshcraft](https://shadowlands.wowhead.com/spell=324631/fleshcraft)
 
-Fleshcraft is a variable strength EHP boost with various potential benefits based on [conduit choice](https://shadowlands.wowhead.com/spell=323074/volatile-solvent) and the presence of adds in a fight. It is unknown if this will be of any substantial significance in Castle Nathria.
+Fleshcraft is a variable strength EHP boost with various potential benefits based on [conduit choice](https://shadowlands.wowhead.com/spell=323074/volatile-solvent) and the presence of adds in a fight. Baseline it can be quite difficult to get good value out of Fleshcraft as Discipline is a ramping spec, meaning the globals before a particularly tough damage event will typically be taken by casts preparing the raid for it.
 
-## Covenant Signature Abilities
+## Priest Covenant Abilities
 
-All of the damaging Covenant abilities will feed into Atonement. Where Covenant abilities do area-of-effect damage they will only cause Atonement healing for one of the targets hit. This has implications for abilities such as Ascended Nova and Unholy Nova, as despite hitting many targets they do significantly less Atonement Healing than you would expect.
+All of the damaging Covenant abilities will feed into Atonement. Where Covenant abilities deal area-of-effect damage, they will only cause Atonement healing for one of the targets hit. This has implications for abilities such as Ascended Nova, Ascended Eruption, and Unholy Nova -- despite the pressure to hit more targets to deal more damage, doing so is typically a bad idea as it will reduce your Atonement or Spirit Shell healing from them.
 
-The order suggested here is roughly how you should be considering them for raiding, for M+ you should be considering Boon of the Ascended above everything else.
+As of the time of writing, the order suggested here is roughly how you should be considering them for raiding.
 
 ### [Venthyr] Mindgames
 
 > [Mindgames](https://shadowlands.wowhead.com/spell=323673/mindgames)
 
-Mindgames provides a large cooldown that can be used to augment your Atonement healing after ramps. As one of the likely Discipline builds will involve using the [Clarity of Mind](https://shadowlands.wowhead.com/spell=336067/clarity-of-mind) legendary to enable a full ramp every 45 seconds, the cooldown of Mindgames works excellently for this. Mindgames can also be delayed by 15 seconds to play into Spirit Shell, which is an extremely strong combination.
+Coming out of the first tier, Mindgames has proven to be the best choice for Discipline; not only does it facilitate getting more value out of your expensive ramps - but it also allows you to participate in other game modes such as PVP to accelerate gearing at the tier start. 
 
-The absorption component of Mindgames has potential to be excellent, it can provide an extremely strong bonus to the damage of the spell by converting the target's healing into damage. This damage **does** follow through to Atonement, meaning that Mindgames on certain encounters may be roughly twice as strong. Additionally, the damage to healing component of the effect also prevents damage from being done in the first place, meaning the value there is double what is listed in the tooltip.
+The absorption component of Mindgames is also occasionally very good, it can provide an extremely strong bonus to the damage of the spell by converting the target's healing into damage. This damage **does** follow through to Atonement, meaning that Mindgames on certain encounters may be roughly twice as strong. Additionally, the damage to healing component of the effect also prevents damage from being done in the first place, meaning the value there is double what is listed in the tooltip. On some fights this can push Mindgames to be a spell that does 20% of more of your total output for free, such as Sire Denathrius or Hungering Destroyer, and while this is inline with a lot of the other healing covenants in the game -- no other Priest covenant yet has shown similar results for Discipline.
 
 ### [Kyrian] Boon of the Ascended
 
@@ -68,7 +61,7 @@ The absorption component of Mindgames has potential to be excellent, it can prov
 >
 > [Ascended Eruption](https://shadowlands.wowhead.com/spell=325326/ascended-eruption)
 
-Boon of the Ascended is a large CD that enables a moderate amount of damage for 10 seconds, some of which is AoE. This represents a large increase to Discipline's output ceiling and as such is valuable for M+ and dungeons, especially during the Prideful seasonal affix. This Covenant should only be a consideration for players pushing M+ beyond even the weekly level required to get rewards.
+Boon of the Ascended is a large CD that enables a moderate amount of damage for 10 seconds, some of which is AoE. This represents a large increase to Discipline's output ceiling and as such is valuable for M+. This Covenant should only be a consideration for players pushing M+ beyond even the weekly level required to get rewards, and even then 
 
 ### [Necrolord] Unholy Nova
 
@@ -85,5 +78,3 @@ Unholy Nova costs too much mana, and has extremely poor interactions with Atonem
 > This ability requires significant tuning, or more likely another pass at design in order for it to be competitive.
 
 Fae Guardians has a large amout of the value in the mana return, which is not great when the baseline Discipline spells heal for so little through Atonement, which is Discipline's only method of efficiently converting extraneous mana into output. The cooldown reduction should not be considered, as it will reduce the cooldown of Spirit Shell or Rapture, which in turn become less valuable as they're offset from your cooldowns such as Shadowfiend or Mindbender.
-
-It's also worth mentioning that Venthyr Priests will eventually have an even better method of customising their mana levels in a fight by taking the Theotar Soulbind.

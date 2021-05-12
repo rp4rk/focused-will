@@ -12,6 +12,6 @@ Choose the chest slot for this legendary.
 ### Twins of the Sun Priestess
 https://www.wowhead.com/spell=336897/twins-of-the-sun-priestess
 
-Fairly self explanatory, allows you to cast Power Infusion without completely losing the effect yourself. This effect sucked in Legion, but may be powerful if you require a burst of DPS and healing at the same time. M+ players should consider crafting this first, as the Prideful affix is a good example of where bursting damage and healing together is a good idea.
+Fairly self explanatory, allows you to cast Power Infusion without completely losing the effect yourself. This effect sucked in Legion, but may be powerful if you require a burst of DPS and healing at the same time. M+ players should consider crafting this first, as bursts of damage requirement and healing intake are commonly linked together.
 
 Choose the helmet slot for this legendary.

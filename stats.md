@@ -13,7 +13,7 @@ Coefficients are the amount of rating it requires, baseline, to achieve 1 unit o
 
 ## How Haste Works
 
-Haste is a fairly straightforward statistic in 2020, you may have heard the term "haste breakpoint" before in the past, but those are mostly gone for now. There are still some places where breakpoints exist however, especially within the Discipline spec, so it can be helpful to keep this information at hand to calculate specific behaviors.
+Haste is a fairly straightforward statistic, you may have heard the term "haste breakpoint" before in the past, but those are mostly gone for now. There are still some places where breakpoints exist however, especially with Discipline, so it can be helpful to keep this information at hand to calculate specific behaviors.
 
 ### Shadowfiend/Mindbender
 

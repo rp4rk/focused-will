@@ -16,13 +16,13 @@ As overwhelming incoming damage is common during early tier progression, Discipl
 
 Atonement is a unique mechanic that allows the player to transform their single target damaging spells into healing, meaning that unlike most other healers, Discipline can provide consistent DPS during periods of intense group damage. The counterweight to this is that in order to heal large groups, a player has to "ramp", meaning they spend 10-15 seconds casting preparation spells in order to capitalise on them by dealing damage.
 
-Atonement is a weak source of "small group" healing, and once you take more focused incoming damage, you will no longer be able to continue using Atonement in favor of more direct spells such as Shadow Mend. This means that Atonement can be a weak source of healing unless setup is done in smaller group formats. This issue can present itself in Mythic+, and is looking to be a considerable factor when dealing with the Manifestation of Pride seasonal affix.
+Atonement is a weak source of "small group" healing, and once you take more focused incoming damage, you will no longer be able to continue using Atonement in favor of more direct spells such as Shadow Mend. This means that Atonement can be a weak source of healing unless setup is done in smaller group formats. This issue presents itself in Mythic+, and should be a primary consideration when attempting to tackle any dungeon that has consistently high AoE damage on the group.
 
-Note that other healers can work damage into their spell choice, but outside of a few exceptions this comes at the cost of being able to heal at the same time. This is notable because it is common for Discipline to be outdamaged by another healer that dedicates themselves to doing damage, such as during Heart of the Wild for example.
+Note that other healers can work damage into their spell choice, but outside of a few exceptions this comes at the cost of being able to heal at the same time. This is notable because it is common for Discipline to be outdamaged by another healer that dedicates themselves to doing damage, for example a Holy Priest on a trivial boss that is given full reign to deal damage will typically do _more_ DPS than Discipline can.
 
 ### Mitigation
 
-Mitigation is a blanket term for effects that reduce incoming damage before it happens, good examples of this would be Pain Suppression, Power Word: Barrier, and to a lesser extent the "absorption" effect that is applied to an enemy by Mind Blast. Mitigation that is percentage based can be extremely powerful depending on the magnitude of incoming damage, allowing players to survive damage that they would otherwise be incapable of surviving.
+Mitigation is a blanket term for effects that reduce incoming damage before it happens, good examples of this would be Pain Suppression, Power Word: Barrier, and to a lesser extent the "absorption" effect that is applied to an enemy by Mind Blast. Percentage based mitigations, such as Power Word: Barrier, can be extremely powerful depending on the magnitude of incoming damage, allowing players to survive damage that they would otherwise be incapable of surviving.
 
 #### Core Mechanics Summary
 
@@ -34,7 +34,7 @@ To contrast the strengths of Discipline, it is also a specialisation that has be
 
 ### Lack of Offensive Target
 
-This one should be fairly obvious, when a target is not present Discipline loses the ability to group heal effectively. While this has not yet proven to be a significant obstacle for Discipline in raid content, it depends almost entirely on raid fight design and could easily present itself as a problem.
+This one should be fairly obvious, when a target is not present Discipline loses the ability to group heal effectively. While this has not yet proven to be a significant obstacle for Discipline in raid content, it depends almost entirely on raid fight design and could easily present itself as a problem. A good example would be the immunity mechanic on the Council of Blood which can significantly reduce your healing done by happening during an important cast.
 
 It's worth noting here that specific talents such as Contrition are not considered options when a target is missing, as it's much more optimal to let co-healers heal during these moments and use your limited ramping capabilities when a target is available. As such Contrition should be looked at purely as a way of removing or limiting the opportunity cost of casting a Defensive Penance instead of an Offensive Penance.
 

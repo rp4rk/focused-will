@@ -4,13 +4,15 @@
 
 Probably the most common misconception about Discipline is that it exists in a state where it provides half the damage of a DPS and half the healing of a healer. This has never been the case and Discipline has always existed to fill a healer slot and compete in that category with every other healer in the game.
 
-It's understandable as to how this misconception started, because healing on a Discipline Priest requires that you press damaging buttons. This is not the fabled '50%' damage, it simply allows Discipline to continue providing DPS during periods of intense damage (see: [Atonement](discipline?id=atonement) ), which is a fairly unique benefit of the specialization.
+It's understandable as to how this misconception started, because healing on a Discipline Priest requires that you press damaging buttons. This is not '50% of a DPS' damage, it simply allows Discipline to continue providing DPS during periods of intense damage (see: [Atonement](discipline?id=atonement) ), which is a fairly unique benefit of the specialization.
 
-Look at the following image, it depicts the statistics for Mythic Shad'har the Insatiable on October the 19th, 2020.
+Look at the following image, it depicts the statistics for Mythic Sire Denathrius on May 12th, 2021:
 
-![Shadhar Statistics](img/shadhar-logs.png)
+![Sire Denathrius Statistics](img/sire-logs.png)
 
-We can see that while Discipline _does_ provide the most passive DPS - Restoration Druids have a higher maximum output capacity. Which points to an overall more nuanced situation than Discipline being better for damage in every single situation. This means that simply analyzing the output of specializations on a website such as Warcraft Logs does not give the full picture. This problem is further exaggerated by the inclusion of game contexts such as M+, where Discipline provides significantly less damage on AOE packs than most other healers.
+At the moment we can see that Holy Paladins have a higher typical output capacity combined with a _higher_ average output capacity, on top of this Monks have significantly closed the gap through the use of the Ancient Teachings of the Monastery legendary. Which points to an overall more nuanced situation than Discipline being strong for damage in every single situation. This means that simply analyzing the output of specializations on a website such as Warcraft Logs does not give the full picture. This problem is further exaggerated by the inclusion of game contexts such as M+, where Discipline provides significantly less damage in AoE situations, and situations where incoming damage is easily handled without groups.
+
+To add to this, other healers have the capability of working with a Druid using Heart of the Wild to convoke as Restoration - facilitating increased levels of DPS during high damage intake moments.
 
 ## Difficulty
 
@@ -29,4 +31,4 @@ The following is a list of powerful healing effects that can be used to burst ra
 - [Shadow Mend](https://www.wowhead.com/spell=186263/)
 - [Shadow Covenant](https://www.wowhead.com/spell=314867/shadow-covenant)
 
-Arguably, Discipline has a stronger set of reactionary healing than Holy Priests, as not only are they not constrained by cooldowns such as [Holy Word: Serenity](https://www.wowhead.com/spell=2050) - they have the benefit of being able to stack several optional healing buffs.
+Arguably, Discipline has a competitive set of reactionary healing tools as Holy Priests, as not only are they not constrained by cooldowns such as [Holy Word: Serenity](https://www.wowhead.com/spell=2050) - they have the benefit of being able to stack several optional healing buffs. 

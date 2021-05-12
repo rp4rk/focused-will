@@ -10,4 +10,3 @@ If you can provide information that could lead to an improvement in what this gu
 
 This guide is not aimed towards players seeking a quick start guide. We recommend [Icy Veins](https://www.icy-veins.com/wow/discipline-priest-pve-healing-guide) as they compensate their authors, which usually leads to higher quality information.
 
-_Please do not ask questions in the Discord that could be easily covered by an existing resource such as a guide or video._
