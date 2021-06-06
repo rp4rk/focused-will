@@ -1,4 +1,4 @@
-> Note this page has been written with a larger emphasis on raiding than other pages.
+> Currently outdated, updates for 9.1 are in the works so check back later.
 
 ## Conduit Considerations
 Generally speaking your conduit preference will look something like this:

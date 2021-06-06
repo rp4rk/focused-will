@@ -13,7 +13,7 @@ It remains to be seen how this will turn out, however there are likely going to 
 Right now, Spirit Shell is incredibly unlikely to be a relevant choice in M+ due to Atonement being significantly weaker in that context. For reference, at the time of writing Rapture can output around 3500% spellpower in 5 globals, something that Spirit Shell can only approach whilst also expending a significant number of your Atonement burst cooldowns such as Schism and Mindgames.
 
 ### Mindgames and Spirit Shell
-When taken with Spirit Shell, Mindgames should be delayed and used during your Spirit Shell ramp. Otherwise take the Clarity of Mind legendary and use it every 45s, inside your alternating Rapture and Evangelism ramps.
+Venthyr priests should aim to execute a mini ramp every 45 seconds to coincide with their Mindgames cooldown. Holding Mindgames not desirable as anything beyond a few seconds will eventually become disruptive to meeting consistent fight timers with your main ramp. 
 
 ### Mindbender and Spirit Shell
 In 9.1, Spirit Shell will have a 90 second cooldown - this breaks the previous synergy with Mindbender. A lot of Discipline's mana economy is built into the use of Shadowfiend or Mindbender on cooldown, so it will be incredibly unlikely that it is a good choice to delay Mindbender for Spirit Shell. The opportunity cost of doing so can be upwards of 20k mana, which is extremely significant. 

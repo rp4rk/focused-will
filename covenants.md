@@ -1,3 +1,4 @@
+> Currently outdated, updates for 9.1 are in the works so check back later.
 ## Covenant Preface
 
 > Be aware that regardless of Blizzard signalling otherwise, your capacity to perform appropriately in certain parts of the game will be significantly different depending on your Covenant. This means it's important that you choose the correct Covenant for the game context you are primarily focusing on.
