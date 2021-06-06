@@ -1,6 +1,7 @@
 - Getting started
 
   - [Quick start]()
+  - [Patch 9.1](discipline-9-1.md)
   - [Core Mechanics](discipline.md)
   - [Secondary Statistics](stats.md)
   - [Talents](talents.md)
@@ -11,7 +12,6 @@
   - [Covenants](covenants.md)
   - [Soulbinds & Conduits](soulbinds.md)
   - [Legendaries](legendaries.md)
-  - [Trinkets](trinkets.md)
 
 - Resources
   - [Common Misconceptions](common-misconceptions.md)
