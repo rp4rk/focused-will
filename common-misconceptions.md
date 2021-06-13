@@ -8,7 +8,7 @@ It's understandable as to how this misconception started, because healing on a D
 
 Look at the following image, it depicts the statistics for Mythic Sire Denathrius on May 12th, 2021:
 
-![Sire Denathrius Statistics](img/sire-logs.png)
+![Sire Denathrius Statistics](img/sire-logs.jpg)
 
 At the moment we can see that Holy Paladins have a higher typical output capacity combined with a _higher_ average output capacity, on top of this Monks have significantly closed the gap through the use of the Ancient Teachings of the Monastery legendary. Which points to an overall more nuanced situation than Discipline being strong for damage in every single situation. This means that simply analyzing the output of specializations on a website such as Warcraft Logs does not give the full picture. This problem is further exaggerated by the inclusion of game contexts such as M+, where Discipline provides significantly less damage in AoE situations, and situations where incoming damage is easily handled without groups.
 

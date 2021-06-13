@@ -14,6 +14,7 @@
   - [Legendaries](legendaries.md)
 
 - Resources
+  - [Ramp Simulator](https://ramp.focusedwill.com)
   - [Common Misconceptions](common-misconceptions.md)
   - [Coefficients (SimC)](https://github.com/simulationcraft/simc/blob/shadowlands/engine/dbc/generated/sc_scale_data.inc)
   - [Spreadsheet](https://docs.google.com/spreadsheets/d/1O8kqXLDvGS10iMJVXSQ6C_fryZSzTsLbcVao7YBRM_Q/edit#gid=1607956873)
