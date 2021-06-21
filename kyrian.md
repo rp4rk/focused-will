@@ -119,7 +119,7 @@ Sequencing for ramps is significantly more complex than in 9.0, and with the inf
 This also lets us start performing a comparison between ramp magnitude for the 9.0 and 9.1 iterations of Discipline, allowing for better understanding of relative strength which can inform strategy going forward. After all if a specific sequencing is producing similar ramp numbers, while leaving more Power Word: Radiance charges on the table, we can safely assume that it is likely to be viable.
 
 ### Ramp Simulation
-Visit the [Ramp Simulator.](https://ptr.wowhead.com/spell=351489/hope-springs-eternal)
+Visit the [Ramp Simulator.](https://ramp.focusedwill.com)
 
 > Warning: this section is dedicated to explaining the internals of the tool used to calculate the results being suggested. If you’re not interested, skip ahead to the next section.  
 

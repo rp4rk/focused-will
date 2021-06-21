@@ -44,14 +44,6 @@ All of the damaging Covenant abilities will feed into Atonement. Where Covenant 
 
 As of the time of writing, the order suggested here is roughly how you should be considering them for raiding.
 
-### [Venthyr] Mindgames
-
-> [Mindgames](https://shadowlands.wowhead.com/spell=323673/mindgames)
-
-Coming out of the first tier, Mindgames has proven to be the best choice for Discipline; not only does it facilitate getting more value out of your expensive ramps - but it also allows you to participate in other game modes such as PVP to accelerate gearing at the tier start. 
-
-The absorption component of Mindgames is also occasionally very good, it can provide an extremely strong bonus to the damage of the spell by converting the target's healing into damage. This damage **does** follow through to Atonement, meaning that Mindgames on certain encounters may be roughly twice as strong. Additionally, the damage to healing component of the effect also prevents damage from being done in the first place, meaning the value there is double what is listed in the tooltip. On some fights this can push Mindgames to be a spell that does 20% of more of your total output for free, such as Sire Denathrius or Hungering Destroyer, and while this is inline with a lot of the other healing covenants in the game -- no other Priest covenant yet has shown similar results for Discipline.
-
 ### [Kyrian] Boon of the Ascended
 
 > [Boon of the Ascended](https://shadowlands.wowhead.com/spell=325013/boon-of-the-ascended)
@@ -62,7 +54,16 @@ The absorption component of Mindgames is also occasionally very good, it can pro
 >
 > [Ascended Eruption](https://shadowlands.wowhead.com/spell=325326/ascended-eruption)
 
-Boon of the Ascended is a large CD that enables a moderate amount of damage for 10 seconds, some of which is AoE. This represents a large increase to Discipline's output ceiling and as such is valuable for M+. This Covenant should only be a consideration for players pushing M+ beyond even the weekly level required to get rewards, and even then 
+Boon of the Ascended is a large CD that enables a large amount of damage for 10 seconds, some of which is AoE. This represents a large increase to Discipline's output ceiling and as such is valuable for pushing output into ramps. Along with other changes, the additions to this Covenant in patch 9.1 see it claim the top spot. Read more in the [Kyrian Guide](kyrian.md).
+
+
+### [Venthyr] Mindgames
+
+> [Mindgames](https://shadowlands.wowhead.com/spell=323673/mindgames)
+
+Coming out of the first tier, Mindgames has proven to be the best choice for Discipline; not only does it facilitate getting more value out of your expensive ramps - but it also allows you to participate in other game modes such as PVP to accelerate gearing at the tier start. 
+
+The absorption component of Mindgames is also occasionally very good, it can provide an extremely strong bonus to the damage of the spell by converting the target's healing into damage. This damage **does** follow through to Atonement, meaning that Mindgames on certain encounters may be roughly twice as strong. Additionally, the damage to healing component of the effect also prevents damage from being done in the first place, meaning the value there is double what is listed in the tooltip. On some fights this can push Mindgames to be a spell that does 20% of more of your total output for free, such as Sire Denathrius or Hungering Destroyer, and while this is inline with a lot of the other healing covenants in the game -- no other Priest covenant yet has shown similar results for Discipline.
 
 ### [Necrolord] Unholy Nova
 
