@@ -2,6 +2,7 @@
 
   - [Quick start]()
   - [Patch 9.1](discipline-9-1.md)
+  - [Kyrian Guide](kyrian.md)
   - [Core Mechanics](discipline.md)
   - [Secondary Statistics](stats.md)
   - [Talents](talents.md)
