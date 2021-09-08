@@ -1,4 +1,7 @@
+> This page was authored in anticipation of the 9.1 patch of Shadowlands
+
 # Discipline in 9.1
+
 Going into the next patch, Discipline is looking to be fairly different. The gameplay radically changes, with an emphasis on more complex ramp windows that are farther spaced than in Castle Nathria. This means Discipline needs to perform larger mini ramps, and simultaneously maintain the strength of their larger main ramp in order to remain competitive.
 
 As always with guides for content that hasn’t been released yet, all this information is subject to change, but with the amount of change that is looking probable this document should point you in the right direction for the next patch. 

@@ -1,16 +1,16 @@
 ## Core Strengths
 
-Discipline has three "core" strengths it brings that differentiate it from other healers. While each factor is not completely unique when compared across the five other healing specialisations in the game, Discipline is the only healer that brings all three in one player slot. This specific combination has historically made Discipline an exceptional progression healer, and nothing seems to have changed in that regard for Shadowlands.
+Discipline has three "core" strengths it brings that differentiate it from other healers. While each factor is not completely unique when compared across the five other healing specialisations in the game, Discipline is the only healer that brings all three in one player slot. This specific combination has historically made Discipline an exceptional progression healer, and in Shadowlands this role has been slightly contested by Holy Paladin but for the most part remains intact.
 
 ### Absorptions
 
-Absorption effects such as Power Word: Shield, Rapture, and Spirit Shell are all extremely powerful under the right circumstances. In the following situations, absorbs become significantly better than any other healing effect:
+Absorption effects such as Power Word: Shield, Rapture, and Spirit Shell are situational effective health increases that can be strong provided the fight works in their favor. In the following situations, absorbs become significantly better than any other healing effect:
 
 - Reduced max health pool effects, such as the Drained Soul effect on the Azshara fight.
 - Reduced healing taken effects, such as the Darkest Depths effect on the Blackwater Behemoth fight.
-- Moments of overwhelming incoming damage that would otherwise kill players, such as Dread on the Za'qul fight.
+- Moments of overwhelming incoming damage that would otherwise kill players, such as Dread Arrows on Sylvanas' final platform.
 
-As overwhelming incoming damage is common during early tier progression, Discipline enjoys a favorable bias when being considered in the first weeks of a tier. It's important to note however, that when a tier progresses and stamina becomes higher in relation to the content you're doing, absorption and mitigation become a bit less valuable.
+As overwhelming incoming damage is common during early tier progression, Discipline enjoys a favorable bias when being considered in the first weeks of a tier. It's important to note however, that when a tier progresses and stamina becomes higher in relation to the content you're doing, absorption and mitigation become significantly less valuable.
 
 ### Atonement
 
@@ -22,7 +22,7 @@ Note that other healers can work damage into their spell choice, but outside of 
 
 ### Mitigation
 
-Mitigation is a blanket term for effects that reduce incoming damage before it happens, good examples of this would be Pain Suppression, Power Word: Barrier, and to a lesser extent the "absorption" effect that is applied to an enemy by Mind Blast. Percentage based mitigations, such as Power Word: Barrier, can be extremely powerful depending on the magnitude of incoming damage, allowing players to survive damage that they would otherwise be incapable of surviving.
+Mitigation is a blanket term for effects that reduce incoming damage before it happens, good examples of this would be Pain Suppression, Power Word: Barrier, and to a lesser extent the "absorption" effect that is applied to an enemy by Mind Blast. Percentage based mitigations, such as Power Word: Barrier, can be extremely powerful depending on the magnitude of incoming damage, allowing players to survive damage that they would otherwise be incapable of surviving. On the other hand, spells such as Mind Blast or Mindgames can provide extremely potent knock-on effects by mitigating the power of a specific attack, such as the leap from Goliaths on the Stone Legion Generals encounter or bosses that heal via damage dealt.
 
 #### Core Mechanics Summary
 
@@ -30,7 +30,10 @@ After reading about Discipline's core strengths, you should be getting an idea o
 
 ## Core Weaknesses
 
-To contrast the strengths of Discipline, it is also a specialisation that has been consistently weak at specific types of healing since it came into the game in it's current state during Legion. It's important to elaborate on these because unlike specialisations such as Restoration Druid, Holy Paladin, or even _Mistweaver Monk_; Discipline has not got the flexibility present in the available talents to build into something that helps with those weaknesses.
+To contrast the strengths of Discipline, it is also a specialisation that has been consistently weak at specific types of healing since it came into the game in the current iteration. It's important to elaborate on these because unlike specialisations such as Restoration Druid, Holy Paladin, or even _Mistweaver Monk_; Discipline has not got the flexibility present in the available talents to build into something that helps with those weaknesses. 
+
+### Poor Sustained Single Target
+Discipline has almost no ways of sustaining high, efficient, single target healing. This is in contrast to specs such as Paladin or Restoration Druid where there are either extremely powerful baseline effects such as Beacon of Light, or legendaries that make single target better. Even Penance, our most efficient single target heal by far, has a slow cast and travel time that strongly discourages use on targets that are likely receive a Holy Shock for example.
 
 ### Lack of Offensive Target
 

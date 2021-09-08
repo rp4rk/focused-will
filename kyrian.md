@@ -1,4 +1,10 @@
 # Kyrian Guide
+
+## 9.1 Update
+Note that while Spirit Shell can still be taken and played, Evangelism has proven to be a significantly better choice during progression. This guide mainly serves
+to document the way to play Spirit Shell correctly, and that has not changed since the time it was originally authored. The ramp calculator provided does not implement
+Evangelism as the most optimal way to play is to simply Boon after ramping with Rapture and Power Word: Radiance.
+
 ## Boon of the Ascended Primer
 In order to understand a lot of the text later, there’s a requirement to understand how Boon of the Ascended (Boon) works. Boons design is quite opaque and it can be hard to understand quickly with only a 10 second duration every 3 minutes. This prelude will describe the general functionality of the spell so you have context for the upcoming information.
 
